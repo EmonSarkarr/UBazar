@@ -15,5 +15,7 @@
 ![projects_4](https://user-images.githubusercontent.com/108603984/210619484-ce4b1b1a-5ec5-4586-adb3-1e1118e370db.PNG)
 ![projects_6](https://user-images.githubusercontent.com/108603984/210619659-552c0069-02a6-4cc9-901b-cda9f7c65c15.PNG)
 
+
+catagory_iteam for recycler view
 ![row_iteam](https://user-images.githubusercontent.com/108603984/210619940-d9b69a65-fb74-4131-961d-317a418c92b5.PNG)
 
