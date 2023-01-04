@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UBazar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip">Skip</string>
+    <string name="broccoli_flower">Broccoli Flower</string>
+    <string name="add_to_card">Add to card</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_your_email_password">Enter Your Email PassWord</string>
+    <string name="forger_password">Forger Password</string>
+    <string name="sign_with_google">Sign With Google</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="create_a_password">Create a Password</string>
+    <string name="registration">Registration</string>
+</resources>
